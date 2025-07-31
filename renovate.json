@@ -1,0 +1,16 @@
+{
+  "packageRules": [
+    {
+      "matchPackageNames": ["chalk", "express"],
+      "minimumGroupSize": 3
+    },
+    {
+      "matchPackageNames": ["chalk", "nodemon", "xmldoc"],
+      "groupName": "my updates"
+    },
+    {
+      "matchPackageNames": ["dotenv", "express", "axios"],
+      "groupName": "my backend updates"
+    },
+  ]
+}
