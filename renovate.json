@@ -9,6 +9,10 @@
       "groupName": "my updates"
     },
     {
+      "matchPackageNames": ["jsonwebtoken", "joi", "lodash"],
+      "groupName": "my regular updates"
+    },
+    {
       "matchPackageNames": ["dotenv", "express", "axios"],
       "groupName": "my backend updates"
     },
