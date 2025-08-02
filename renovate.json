@@ -16,5 +16,6 @@
       "matchPackageNames": ["dotenv", "express", "axios"],
       "groupName": "my backend updates"
     }
-  ]
+  ],
+  "dependencyDashboard": true
 }
